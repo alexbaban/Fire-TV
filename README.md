@@ -1,6 +1,6 @@
-# Fire-TV
+# Fire TV Stick
 
-Amazon Fire TV includes Amazon WebView, an advanced Chromium-based web engine common to all Fire OS devices. This enables the Fire TV to use the latest HTML5 functionality such as GPU accelerated CSS3 transforms and a recent JavaScript engine.
+Amazon Fire TV Stick includes Amazon WebView, an advanced Chromium-based web engine common to all Fire OS devices. This enables the Fire TV to use the latest HTML5 functionality such as GPU accelerated CSS3 transforms and a recent JavaScript engine.
 
 ## Getting Started with Web Apps
 (https://developer.amazon.com/docs/fire-tv/getting-started-with-web-apps.html)
