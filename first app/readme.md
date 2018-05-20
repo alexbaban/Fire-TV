@@ -31,3 +31,5 @@ From `\web-app-starter-kit-for-fire-tv-master\out\simple` directory to `C:\FireT
 - Select 'Test Packaged App' from the menu at the top right
 - The 'simple.zip' should show under 'Apps on this device' section
 - Select, then Verify, then Test
+
+> Note: 'simple.zip' uploaded to this folder
