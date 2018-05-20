@@ -13,6 +13,9 @@ Amazon Fire TV Stick includes Amazon WebView, an advanced Chromium-based web eng
 * AWS Mobile Resources   
 (https://aws.amazon.com/mobile/resources/)
 
+* Capture Media from Device Sensors   
+(https://developer.amazon.com/docs/fire-tablets/ft-webapp-capture-media-from-device-sensors.html)
+
 ## Getting Started with Web Apps
 (https://developer.amazon.com/docs/fire-tv/getting-started-with-web-apps.html)
 
