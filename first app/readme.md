@@ -1,4 +1,6 @@
-# First Fire TV App (install and run)
+# First Fire TV Web App (install and run)
+
+Amazon Fire TV, including both Fire TV and the Fire TV Stick, supports HTML5 web apps.
 
 ### Install the 'Web App Tester' App
 
