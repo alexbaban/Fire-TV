@@ -7,10 +7,10 @@ Amazon Fire TV Stick includes Amazon WebView, an advanced Chromium-based web eng
 
 ## Resources
 
-* Build Higher Performance Cordova-Based Fire OS Apps by Implementing Amazon Web View Support
+* Build Higher Performance Cordova-Based Fire OS Apps by Implementing Amazon Web View Support   
 (https://developer.amazon.com/blogs/tag/Amazon+WebView)
 
-* AWS Mobile Resources
+* AWS Mobile Resources   
 (https://aws.amazon.com/mobile/resources/)
 
 ## Getting Started with Web Apps
