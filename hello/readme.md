@@ -1,7 +1,7 @@
 # Hello
 
 The "Hello" app, shows the "Hello!" message in the center of the screen.  
-It is made of ony one file `index.html` and loads "jQuery" and the "Amazon Web App API" libraries.
+It is made of two files `index.html`, `bg_app.jpg` and loads "jQuery" and the "Amazon Web App API" libraries.
 
 ### index.html
 
